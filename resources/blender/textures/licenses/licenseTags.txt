@@ -1,0 +1,5 @@
+zebraStripes.png: manually created
+linearStripes.png: manually created
+circleExtraMazeCue.png: manually created
+crossExtraMazeCue.png: manually created
+floorTexture.png: manually created
